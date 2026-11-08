@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/321eu-6gmc63k.css","style"]
+:HL["/_next/static/chunks/3ksa1h2-egf16.css","style"]
 :HC["https://eudpbprpbgqlcmcihwbh.supabase.co",""]
 :HL["/art/opening/sky-dawn.png?v=2b425d65","image",{"fetchPriority":"high"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"ymjlmpYexPKfkCUcl4O0H","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"xBB0UMYQXpKF1wEOkw0XI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
