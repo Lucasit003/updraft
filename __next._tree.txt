@@ -1,6 +1,8 @@
-:HL["/_next/static/chunks/13j9ydpa5hse6.css","style"]
+:HL["/_next/static/chunks/321eu-6gmc63k.css","style"]
 :HL["/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/29e2a75af8e45044-s.p.2kjei9psvcorz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/updraft_display-s.p.1v7mnfxmpzm6w.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HC["https://eudpbprpbgqlcmcihwbh.supabase.co",""]
+:HL["/art/opening/sky-dawn.png?v=2b425d65","image",{"fetchPriority":"high"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"p9viscwsFlBTMCXp0Lkvc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"ymjlmpYexPKfkCUcl4O0H","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
