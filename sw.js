@@ -2,7 +2,7 @@
 // Deliberately no fetch handler and no caching: a stale cached build would be worse than no
 // offline mode. See src/lib/reminders.ts and scripts/send-reminders.mts.
 
-const scope = self.registration.scope; // e.g. https://lucasit003.github.io/updraft/
+const scope = self.registration.scope; // e.g. https://playupdraft.com/
 
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (event) => event.waitUntil(self.clients.claim()));
